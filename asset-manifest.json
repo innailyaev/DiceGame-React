@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DiceGame-React/static/css/main.d6b0ba26.chunk.css",
-    "main.js": "/DiceGame-React/static/js/main.53a4b2c0.chunk.js",
-    "main.js.map": "/DiceGame-React/static/js/main.53a4b2c0.chunk.js.map",
+    "main.css": "/DiceGame-React/static/css/main.ce1e1410.chunk.css",
+    "main.js": "/DiceGame-React/static/js/main.91ff0477.chunk.js",
+    "main.js.map": "/DiceGame-React/static/js/main.91ff0477.chunk.js.map",
     "runtime-main.js": "/DiceGame-React/static/js/runtime-main.52960c24.js",
     "runtime-main.js.map": "/DiceGame-React/static/js/runtime-main.52960c24.js.map",
     "static/js/2.43118e61.chunk.js": "/DiceGame-React/static/js/2.43118e61.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.ffcbdd93.chunk.js": "/DiceGame-React/static/js/3.ffcbdd93.chunk.js",
     "static/js/3.ffcbdd93.chunk.js.map": "/DiceGame-React/static/js/3.ffcbdd93.chunk.js.map",
     "index.html": "/DiceGame-React/index.html",
-    "static/css/main.d6b0ba26.chunk.css.map": "/DiceGame-React/static/css/main.d6b0ba26.chunk.css.map",
-    "static/js/2.43118e61.chunk.js.LICENSE.txt": "/DiceGame-React/static/js/2.43118e61.chunk.js.LICENSE.txt"
+    "static/css/main.ce1e1410.chunk.css.map": "/DiceGame-React/static/css/main.ce1e1410.chunk.css.map",
+    "static/js/2.43118e61.chunk.js.LICENSE.txt": "/DiceGame-React/static/js/2.43118e61.chunk.js.LICENSE.txt",
+    "static/media/0004526.865913cb.mp3": "/DiceGame-React/static/media/0004526.865913cb.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.52960c24.js",
     "static/js/2.43118e61.chunk.js",
-    "static/css/main.d6b0ba26.chunk.css",
-    "static/js/main.53a4b2c0.chunk.js"
+    "static/css/main.ce1e1410.chunk.css",
+    "static/js/main.91ff0477.chunk.js"
   ]
 }
